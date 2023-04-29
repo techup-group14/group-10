@@ -83,10 +83,15 @@ th {
     margin-right:1px;
 
 }
+tr:nth-child(even){
+    background-color: blue;
+    }
+    tr:nth-child(odd){
+    background-color: green;
+    }
 #btn:hover{
     background-color: yellow
     color:black
     table {
         background-color: yellow;
       }
-

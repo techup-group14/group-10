@@ -7,8 +7,8 @@
     background-color: #e1f00e;
 }
 
-#foto1 {
-    width: 50%;
+#foto1.jpg {
+    width: 200px;
       height: auto;
     display: block;
     margin-left: auto;
@@ -69,3 +69,24 @@ th {
 .fest{
     font-size: 50px;
 }
+#btn{
+    background-color: #e6035a;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    padding-top: 15px;
+    padding-left: 10px;
+    margin: 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    margin-right:1px;
+
+}
+#btn:hover{
+    background-color: yellow
+    color:black
+    table {
+        background-color: yellow;
+      }
+
